@@ -1,0 +1,19 @@
+{
+  "response": [
+    {
+      "id": "663a50933bb593229728f663",
+      "username": "user",
+      "title": "money",
+      "description": "check",
+      "dateTimeCreated": "2024-05-07T17:02:27.656",
+      "dateTimeUpdated": "2024-05-07T17:02:27.656",
+      "dueDate": "2024-11-22",
+      "status": "PENDING",
+      "priority": "HIGH_PRIORITY",
+      "sender": "user",
+      "receiver": "user3",
+      "email": null
+    }
+  ],
+  "successful": true
+}

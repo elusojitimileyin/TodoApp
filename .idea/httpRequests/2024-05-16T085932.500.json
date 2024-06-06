@@ -1,0 +1,6 @@
+{
+  "timestamp": "2024-05-16T07:59:32.266+00:00",
+  "status": 500,
+  "error": "Internal Server Error",
+  "path": "/api/TodoApp_User/register"
+}

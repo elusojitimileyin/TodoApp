@@ -1,0 +1,70 @@
+{
+  "response": [
+    {
+      "id": "663a50933bb593229728f663",
+      "username": "user",
+      "title": "money",
+      "description": "check",
+      "dateTimeCreated": "2024-05-07T17:02:27.656",
+      "dateTimeUpdated": "2024-05-07T17:02:27.656",
+      "dueDate": "2024-11-22",
+      "status": "PENDING",
+      "priority": "HIGH_PRIORITY",
+      "sender": "user",
+      "receiver": "user3"
+    },
+    {
+      "id": "663a50af3bb593229728f664",
+      "username": "user",
+      "title": "only",
+      "description": "nothing",
+      "dateTimeCreated": "2024-05-07T17:02:55.433",
+      "dateTimeUpdated": "2024-05-07T17:02:55.433",
+      "dueDate": "2024-11-22",
+      "status": "CREATED",
+      "priority": "HIGH_PRIORITY",
+      "sender": "user",
+      "receiver": null
+    },
+    {
+      "id": "663a566a9c2dd01effc1760e",
+      "username": "user3",
+      "title": "lives gose",
+      "description": "forever young",
+      "dateTimeCreated": "2024-05-07T17:27:22.906",
+      "dateTimeUpdated": "2024-05-07T17:27:22.906",
+      "dueDate": "2024-11-22",
+      "status": "CREATED",
+      "priority": "HIGH_PRIORITY",
+      "sender": "user3",
+      "receiver": null
+    },
+    {
+      "id": "663a57e00c60741e58bbaff6",
+      "username": "user3",
+      "title": "lives gose",
+      "description": "forever young",
+      "dateTimeCreated": "2024-05-07T17:33:36.146",
+      "dateTimeUpdated": "2024-05-07T17:33:36.146",
+      "dueDate": "2024-11-22",
+      "status": "CREATED",
+      "priority": "HIGH_PRIORITY",
+      "sender": "user3",
+      "receiver": null
+    },
+    {
+      "id": "663a5a52c1128a01c8954b76",
+      "username": "user3",
+      "title": "lIVE",
+      "description": "forever young",
+      "dateTimeCreated": "2024-05-07T17:44:02.844",
+      "dateTimeUpdated": "2024-05-07T17:44:02.844",
+      "dueDate": "2024-11-22",
+      "status": "CREATED",
+      "priority": "HIGH_PRIORITY",
+      "sender": "user3",
+      "receiver": null
+    }
+  ],
+  "successful": true
+}

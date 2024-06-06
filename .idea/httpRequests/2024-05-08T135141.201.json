@@ -1,0 +1,17 @@
+{
+  "successful": true,
+  "response": [
+    {
+      "id": "663a50af3bb593229728f664",
+      "username": "user",
+      "title": "only",
+      "description": "nothing",
+      "dateTimeCreated": "2024-05-07T17:02:55.433",
+      "dateTimeUpdated": "2024-05-07T17:02:55.433",
+      "dueDate": "2024-11-22",
+      "status": "CREATED",
+      "priority": "HIGH_PRIORITY",
+      "sender": "user"
+    }
+  ]
+}

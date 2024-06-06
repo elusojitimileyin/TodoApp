@@ -1,0 +1,881 @@
+POST http://localhost:9009/api/TodoApp_User/register
+Content-Type: application/json
+Content-Length: 84
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.9)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+  "username": "user10",
+  "email": "tobantu@gmail.com",
+  "password": "@Twi1234"
+}
+
+<> 2024-05-24T105331.200.json
+
+###
+
+PATCH http://localhost:9009/api/TodoApp_Task/share_Task
+Content-Type: application/json
+Content-Length: 65
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.9)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+  "title": "cult",
+  "sender": "user7",
+  "receiver": "user4"
+}
+
+<> 2024-05-21T063631.200.json
+
+###
+
+PATCH http://localhost:9009/api/TodoApp_Task/share_Task
+Content-Type: application/json
+Content-Length: 65
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.9)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+  "title": "cult",
+  "sender": "user7",
+  "receiver": "user4"
+}
+
+<> 2024-05-21T063330.200.json
+
+###
+
+POST http://localhost:9009/api/TodoApp_User/register
+Content-Type: application/json
+Content-Length: 91
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.9)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+  "username": "ayo1",
+  "email": "coutinhodacruz10@gmail.com",
+  "password": "1234@See"
+}
+
+<> 2024-05-18T105136.200.json
+
+###
+
+POST http://localhost:9009/api/TodoApp_User/register
+Content-Type: application/json
+Content-Length: 90
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.9)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+  "username": "ayo",
+  "email": "coutinhodacruz10@gmail.com",
+  "password": "1234@See"
+}
+
+<> 2024-05-18T105120.200.json
+
+###
+
+POST http://localhost:9009/api/TodoApp_User/register
+Content-Type: application/json
+Content-Length: 80
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.9)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+  "username": "ayo",
+  "email": "tobantu@gmail.co",
+  "password": "1234@See"
+}
+
+<> 2024-05-18T104953.200.json
+
+###
+
+POST http://localhost:9009/api/TodoApp_User/register
+Content-Type: application/json
+Content-Length: 81
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.9)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+  "username": "ayo",
+  "email": "tobantu@gmail.com",
+  "password": "1234@See"
+}
+
+<> 2024-05-16T094325.500.json
+
+###
+
+POST http://localhost:9009/api/TodoApp_User/register
+Content-Type: application/json
+Content-Length: 81
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.9)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+  "username": "ayo",
+  "email": "tobantu@gmail.com",
+  "password": "1234@See"
+}
+
+<> 2024-05-16T094142.500.json
+
+###
+
+POST http://localhost:9009/api/TodoApp_User/register
+Content-Type: application/json
+Content-Length: 81
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.9)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+  "username": "ayo",
+  "email": "tobantu@gmail.com",
+  "password": "1234@See"
+}
+
+<> 2024-05-16T085932.500.json
+
+###
+
+POST http://localhost:9009/api/TodoApp_User/register
+Content-Type: application/json
+Content-Length: 77
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.9)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+  "username": "ayo",
+  "email": "tobantu@gmail.com",
+  "password": "1234"
+}
+
+<> 2024-05-16T085900.200.json
+
+###
+
+POST http://localhost:9009/api/TodoApp_User/register
+Content-Type: application/json
+Content-Length: 106
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.9)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+  "firstName": "femi",
+  "lastName": "tola",
+  "username": "i",
+  "password": "1111",
+  "email": "5@5"
+}
+
+<> 2024-05-09T172115.400.json
+
+###
+
+POST http://localhost:9009/api/TodoApp_User/register
+Content-Type: application/json
+Content-Length: 106
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.9)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+  "firstName": "femi",
+  "lastName": "tola",
+  "username": "i",
+  "password": "1111",
+  "email": "5@5"
+}
+
+<> 2024-05-09T172103.201.json
+
+###
+
+POST http://localhost:9009/api/TodoApp_User/register
+Content-Type: application/json
+Content-Length: 106
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.9)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+  "firstName": "femi",
+  "lastName": "tola",
+  "username": "i",
+  "password": "1111",
+  "email": "5@5"
+}
+
+<> 2024-05-09T092604.201.json
+
+###
+
+POST http://localhost:9009/api/TodoApp_User/register
+Content-Type: application/json
+Content-Length: 109
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.9)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+  "firstName": "femi",
+  "lastName": "tola",
+  "username": "i",
+  "password": "1111",
+  "email": "admin@"
+}
+
+<> 2024-05-09T092543.400.json
+
+###
+
+POST http://localhost:9009/api/TodoApp_User/register
+Content-Type: application/json
+Content-Length: 112
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.9)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+  "firstName": "femi",
+  "lastName": "tola",
+  "username": "i",
+  "password": "1111",
+  "email": "admin.com"
+}
+
+<> 2024-05-09T092529.400.json
+
+###
+
+POST http://localhost:9009/api/TodoApp_User/register
+Content-Type: application/json
+Content-Length: 108
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.9)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+  "firstName": "femi",
+  "lastName": "tola",
+  "username": "i",
+  "password": "1111",
+  "email": "admin"
+}
+
+<> 2024-05-09T092506.400.json
+
+###
+
+POST http://localhost:9009/api/TodoApp_User/register
+Content-Type: application/json
+Content-Length: 110
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.9)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+  "firstName": "femi",
+  "lastName": "tola",
+  "username": "izu",
+  "password": "1111",
+  "email": "admin"
+}
+
+<> 2024-05-09T092444.400.json
+
+###
+
+POST http://localhost:9009/api/TodoApp_User/register
+Content-Type: application/json
+Content-Length: 121
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.9)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+  "firstName": "femi",
+  "lastName": "tola",
+  "username": "izu",
+  "password": "1111",
+  "email": "admin@server.com"
+}
+
+<> 2024-05-09T092302.201.json
+
+###
+
+PATCH http://localhost:9009/api/TodoApp_Task/share_Task
+Content-Type: application/json
+Content-Length: 102
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.9)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+  "email": "5",
+  "taskId": "663a50af3bb593229728f664",
+  "receiver": "user3",
+  "sender": "user3"
+}
+
+<> 2024-05-09T091725.201.json
+
+###
+
+PATCH http://localhost:9009/api/TodoApp_Task/share_Task
+Content-Type: application/json
+Content-Length: 101
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.9)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+  "email": "5",
+  "taskId": "663a50af3bb593229728f664",
+  "receiver": "user3",
+  "sender": "user"
+}
+
+<> 2024-05-09T091714.201.json
+
+###
+
+PATCH http://localhost:9009/api/TodoApp_Task/share_Task
+Content-Type: application/json
+Content-Length: 101
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.9)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+  "email": "5",
+  "taskId": "663a50af3bb593229728f664",
+  "receiver": "user3",
+  "sender": "user"
+}
+
+<> 2024-05-09T091707.201.json
+
+###
+
+PATCH http://localhost:9009/api/TodoApp_Task/share_Task
+Content-Type: application/json
+Content-Length: 101
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.9)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+  "email": "5",
+  "taskId": "663a50af3bb593229728f664",
+  "receiver": "user3",
+  "sender": "user"
+}
+
+<> 2024-05-09T070509.201.json
+
+###
+
+PATCH http://localhost:9009/api/TodoApp_Task/share_Task
+Content-Type: application/json
+Content-Length: 115
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.9)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+  "email": "testexample.com",
+  "taskId": "663a50af3bb593229728f664",
+  "receiver": "user3",
+  "sender": "user"
+}
+
+<> 2024-05-09T070428.201.json
+
+###
+
+PATCH http://localhost:9009/api/TodoApp_Task/share_Task
+Content-Type: application/json
+Content-Length: 115
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.9)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+  "email": "testexample.com",
+  "taskId": "663a50af3bb593229728f664",
+  "receiver": "user3",
+  "sender": "user"
+}
+
+<> 2024-05-09T070423.201.json
+
+###
+
+PATCH http://localhost:9009/api/TodoApp_Task/share_Task
+Content-Type: application/json
+Content-Length: 116
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.9)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+  "email": "test@example.com",
+  "taskId": "663a50af3bb593229728f664",
+  "receiver": "user3",
+  "sender": "user"
+}
+
+<> 2024-05-09T070234.201.json
+
+###
+
+POST http://localhost:9009/api/TodoApp_User/register
+Content-Type: application/json
+Content-Length: 114
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.9)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+  "firstName": "fela",
+  "lastName": "mus",
+  "username": "izu",
+  "password": "1111",
+  "email" : "toban@com"
+}
+
+<> 2024-05-08T150258.201.json
+
+###
+
+POST http://localhost:9009/api/TodoApp_Task/viewTaskById
+Content-Type: application/json
+Content-Length: 42
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.9)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+  "taskId": "663a50af3bb593229728f664"
+}
+
+<> 2024-05-08T135141.201.json
+
+###
+
+POST http://localhost:9009/api/TodoApp_Task/viewTaskByTitle
+Content-Type: application/json
+Content-Length: 22
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.9)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+  "title": "money"
+}
+
+<> 2024-05-08T132534.201.json
+
+###
+
+POST http://localhost:9009/api/TodoApp_Task/viewTaskByTitle
+Content-Type: application/json
+Content-Length: 22
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.9)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+  "title": "money"
+}
+
+<> 2024-05-08T132355.201.json
+
+###
+
+POST http://localhost:9009/api/TodoApp_Task/viewTaskByTitle
+Content-Type: application/json
+Content-Length: 22
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.9)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+  "title": "money"
+}
+
+<> 2024-05-08T132220.201.json
+
+###
+
+GET http://localhost:9009/api/TodoApp_Task/view_Tasks
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.9)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2024-05-08T073049.201.json
+
+###
+
+PATCH http://localhost:9009/api/TodoApp_User/update
+Content-Type: application/json
+Content-Length: 97
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.9)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+  "id": "663a674e1427be0b43d6864b",
+  "username": "tobi",
+  "firstName": "",
+  "lastName": ""
+}
+
+<> 2024-05-07T192957.400.json
+
+###
+
+PATCH http://localhost:9009/api/TodoApp_User/update
+Content-Type: application/json
+Content-Length: 97
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.9)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+  "id": "663a674e1427be0b43d6864b",
+  "username": "tobi",
+  "firstName": "",
+  "lastName": ""
+}
+
+<> 2024-05-07T192636.201.json
+
+###
+
+PATCH http://localhost:9009/api/TodoApp_User/update
+Content-Type: application/json
+Content-Length: 104
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.9)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+  "id": "663a674e1427be0b43d6864b",
+  "username": "tobi",
+  "firstName": "femiola",
+  "lastName": ""
+}
+
+<> 2024-05-07T192619.201.json
+
+###
+
+PATCH http://localhost:9009/api/TodoApp_User/update
+Content-Type: application/json
+Content-Length: 104
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.9)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+  "id": "663a674e1427be0b43d6864b",
+  "username": "tobi",
+  "firstName": "femiola",
+  "lastName": ""
+}
+
+<> 2024-05-07T192255.201.json
+
+###
+
+PATCH http://localhost:9009/api/TodoApp_User/update
+Content-Type: application/json
+Content-Length: 103
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.9)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+  "id": "663a674e1427be0b43d6864b",
+  "username": "tobi",
+  "firstName": "femiola",
+  "lastName": ""}
+
+<> 2024-05-07T185155.201.json
+
+###
+
+PATCH http://localhost:9009/api/TodoApp_User/update
+Content-Type: application/json
+Content-Length: 103
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.9)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+  "id": "663a674e1427be0b43d6864b",
+  "username": "tobi",
+  "firstName": "femiola",
+  "lastName": ""}
+
+<> 2024-05-07T185152.201.json
+
+###
+
+PATCH http://localhost:9009/api/TodoApp_User/update
+Content-Type: application/json
+Content-Length: 105
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.9)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+  "id": "663a674e1427be0b43d6864b",
+  "username": "tobi",
+  "firstName": "femiola",
+  "lastName": "to"}
+
+<> 2024-05-07T185134.201.json
+
+###
+
+PATCH http://localhost:9009/api/TodoApp_User/update
+Content-Type: application/json
+Content-Length: 108
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.9)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+  "id": "663a674e1427be0b43d6864b",
+  "username": "tobi",
+  "firstName": "femiola",
+  "lastName": "tola"
+}
+
+<> 2024-05-07T184301.201.json
+
+###
+
+PATCH http://localhost:9009/api/TodoApp_User/update
+Content-Type: application/json
+Content-Length: 109
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.9)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+  "id": "663a674e1427be0b43d6864b",
+  "username": "tobiloba",
+  "firstName": "femi",
+  "lastName": "tola"
+}
+
+<> 2024-05-07T184223.400.json
+
+###
+
+PATCH http://localhost:9009/api/TodoApp_User/login
+Content-Type: application/json
+Content-Length: 48
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.9)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+  "username": "tobi",
+  "password": "123"
+
+}
+
+<> 2024-05-07T184015.201.json
+
+###
+
+POST http://localhost:9009/api/TodoApp_User/register
+Content-Type: application/json
+Content-Length: 90
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.9)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+  "username": "tobi",
+  "password": "123",
+  "firstName": "femi",
+  "lastName": "tola"
+}
+
+<> 2024-05-07T183926.201.json
+
+###
+
+POST http://localhost:9009/api/TodoApp_Task/add_task
+Content-Type: application/json
+Content-Length: 115
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.9)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+  "username": "",
+  "description": "",
+  "id": "",
+  "priority": "LOW_PRIORITY",
+  "title": "",
+  "dueDate": ""
+}
+
+<> 2024-05-06T204525.400.json
+
+###
+
+POST http://localhost:9009/api/TodoApp_Task/add_task
+Content-Type: application/json
+Content-Length: 115
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.9)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+  "username": "",
+  "description": "",
+  "id": "",
+  "priority": "LOW_PRIORITY",
+  "title": "",
+  "dueDate": ""
+}
+
+<> 2024-05-06T202931.400.json
+
+###
+
+PATCH http://localhost:9009/api/TodoApp_User/login
+Content-Type: application/json
+Content-Length: 55
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.9)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+  "username": "user12",
+  "password": "password"
+
+}
+
+<> 2024-05-06T124415.500.json
+
+###
+
+DELETE http://localhost:9009/api/TodoApp_Task/delete_task
+Content-Type: application/json
+Content-Length: 89
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.9)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+"username": "bobo",
+  "title": "love is real",
+  "taskId": "6637e7d94b9ecf580f0e8f62"
+}
+
+<> 2024-05-06T090702.201.json
+
+###
+
+PATCH http://localhost:9009/api/TodoApp_User/login
+Content-Type: application/json
+Content-Length: 45
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.9)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+  "username": "bobo",
+  "password": "joo"
+}
+
+<> 2024-05-06T090539.201.json
+
+###
+
+DELETE http://localhost:9009/api/TodoApp_Task/delete_task
+Content-Type: application/json
+Content-Length: 89
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.9)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+"username": "bobo",
+  "title": "love is real",
+  "taskId": "6637e7d94b9ecf580f0e8f62"
+}
+
+<> 2024-05-06T090405.400.json
+
+###
+
+PATCH http://localhost:9009/api/TodoApp_Task/update_Task
+Content-Type: application/json
+Content-Length: 186
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.9)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+  "username": "bobo123",
+  "id": "6637e7d94b9ecf580f0e8f62",
+  "title": "real love",
+  "description": "it is everything",
+  "dueDate": "2020-12-12",
+  "priority": "MEDIUM_PRIORITY"
+
+
+}
+
+<> 2024-05-06T083907.400.json
+
+###
+
+POST http://localhost:9009/api/TodoApp_Task/add_task
+Content-Type: application/json
+Content-Length: 183
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.9)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+  "username": "bobo",
+  "id": "6637e7d94b9ecf580f0e8f62",
+  "title": "love is real",
+  "description": "is everything",
+  "dueDate": "2020-12-12",
+  "priority": "MEDIUM_PRIORITY"
+
+
+}
+
+<> 2024-05-06T081716.400.json
+
+###
+

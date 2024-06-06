@@ -1,0 +1,311 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b6ba72b2-a24b-4da5-a1f0-f3e7ceced554" name="Changes" comment="update" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="JUnit5 Test Class" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="elusojitimileyin &lt;elusojitimileyin@gmail.com&gt;" />
+      </list>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;elusojitimileyin&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/elusojitimileyin/TodoApp.git&quot;,
+    &quot;accountId&quot;: &quot;1eeeeb15-b5ae-4816-9d2e-29ac626f8eaa&quot;
+  }
+}</component>
+  <component name="GoLibraries">
+    <option name="indexEntireGoPath" value="true" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
+  <component name="ProjectId" id="2eOzXTZEdkLXbcg3qOgEOy2Ki19" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;JUnit.TaskServiceImpTest.testToRegisterOneUser_userCanLogin_UserCanAddTask_userCanUpdateTask.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.UserServiceImpTest.testThatUserCanRegisterOnce.executor&quot;: &quot;Run&quot;,
+    &quot;RequestMappingsPanelOrder0&quot;: &quot;0&quot;,
+    &quot;RequestMappingsPanelOrder1&quot;: &quot;1&quot;,
+    &quot;RequestMappingsPanelWidth0&quot;: &quot;75&quot;,
+    &quot;RequestMappingsPanelWidth1&quot;: &quot;75&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.go.formatter.settings.were.checked&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.go.migrated.go.modules.settings&quot;: &quot;true&quot;,
+    &quot;Spring Boot.Main.executor&quot;: &quot;Run&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary&quot;: &quot;JUnit5&quot;,
+    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5&quot;: &quot;&quot;,
+    &quot;deletionFromPopupRequiresConfirmation&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;go.import.settings.migrated&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/User/Desktop/TodoApp&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;advanced.settings&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="Semicolon.Africa.TodoApp.dtos.request" />
+      <recent name="Semicolon.Africa.TodoApp.TodoAppException" />
+      <recent name="Semicolon.Africa.TodoApp.dtos.response" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="Semicolon.Africa.TodoApp.services" />
+      <recent name="Semicolon.Africa.TodoApp.Data.Repository" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Spring Boot.Main">
+    <configuration name="generated-requests | #315" type="HttpClient.HttpRequestRunConfigurationType" factoryName="HTTP Request" temporary="true" nameIsGenerated="true" path="$APPLICATION_CONFIG_DIR$/scratches/generated-requests.http" index="315" requestIdentifier="#315" runType="Run single request">
+      <method v="2" />
+    </configuration>
+    <configuration name="generated-requests | #316" type="HttpClient.HttpRequestRunConfigurationType" factoryName="HTTP Request" temporary="true" nameIsGenerated="true" path="$APPLICATION_CONFIG_DIR$/scratches/generated-requests.http" index="316" requestIdentifier="#316" runType="Run single request">
+      <method v="2" />
+    </configuration>
+    <configuration name="TaskServiceImpTest.testToRegisterOneUser_userCanLogin_UserCanAddTask_userCanUpdateTask" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="TodoApp" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Semicolon.Africa.TodoApp.services.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Semicolon.Africa.TodoApp.services" />
+      <option name="MAIN_CLASS_NAME" value="Semicolon.Africa.TodoApp.services.TaskServiceImpTest" />
+      <option name="METHOD_NAME" value="testToRegisterOneUser_userCanLogin_UserCanAddTask_userCanUpdateTask" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UserServiceImpTest.testThatUserCanRegisterOnce" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="TodoApp" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Semicolon.Africa.TodoApp.services.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Semicolon.Africa.TodoApp.services" />
+      <option name="MAIN_CLASS_NAME" value="Semicolon.Africa.TodoApp.services.UserServiceImpTest" />
+      <option name="METHOD_NAME" value="testThatUserCanRegisterOnce" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="TodoApp" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="Semicolon.Africa.TodoApp.Main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Semicolon.Africa.TodoApp.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.Main" />
+        <item itemvalue="JUnit.TaskServiceImpTest.testToRegisterOneUser_userCanLogin_UserCanAddTask_userCanUpdateTask" />
+        <item itemvalue="JUnit.UserServiceImpTest.testThatUserCanRegisterOnce" />
+        <item itemvalue="HTTP Request.generated-requests | #316" />
+        <item itemvalue="HTTP Request.generated-requests | #315" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9f38398b9061-39b83d9b5494-intellij.indexing.shared.core-IU-241.17011.79" />
+        <option value="bundled-js-predefined-1d06a55b98c1-0b3e54e931b4-JavaScript-IU-241.17011.79" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b6ba72b2-a24b-4da5-a1f0-f3e7ceced554" name="Changes" comment="" />
+      <created>1711790460126</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1711790460126</updated>
+      <workItem from="1711790461174" duration="5734000" />
+      <workItem from="1711973922349" duration="2706000" />
+      <workItem from="1712212972038" duration="2050000" />
+      <workItem from="1712232537511" duration="9265000" />
+      <workItem from="1712382027321" duration="596000" />
+      <workItem from="1712451160774" duration="755000" />
+      <workItem from="1712493618267" duration="592000" />
+      <workItem from="1712506798956" duration="401000" />
+      <workItem from="1712507308835" duration="1040000" />
+      <workItem from="1712549435134" duration="6952000" />
+      <workItem from="1712772105378" duration="8829000" />
+      <workItem from="1713020456127" duration="14910000" />
+      <workItem from="1713112652141" duration="591000" />
+      <workItem from="1713119508800" duration="960000" />
+      <workItem from="1713120515334" duration="593000" />
+      <workItem from="1713127362125" duration="8858000" />
+      <workItem from="1713264319692" duration="3486000" />
+      <workItem from="1713276528829" duration="614000" />
+      <workItem from="1713332475691" duration="4873000" />
+      <workItem from="1714028386010" duration="2522000" />
+      <workItem from="1714398527525" duration="27772000" />
+      <workItem from="1714500393083" duration="16096000" />
+      <workItem from="1714638179250" duration="51721000" />
+      <workItem from="1714758072598" duration="56413000" />
+      <workItem from="1714989444360" duration="29379000" />
+      <workItem from="1715074892399" duration="31666000" />
+      <workItem from="1715152840258" duration="44652000" />
+      <workItem from="1715283570877" duration="22639000" />
+      <workItem from="1715333203334" duration="2006000" />
+      <workItem from="1715338374667" duration="62012000" />
+      <workItem from="1715584087812" duration="4114000" />
+      <workItem from="1715590168490" duration="972000" />
+      <workItem from="1715597091946" duration="12664000" />
+      <workItem from="1715673791546" duration="2637000" />
+      <workItem from="1715685242350" duration="7001000" />
+      <workItem from="1715705126837" duration="40263000" />
+      <workItem from="1715844653011" duration="3589000" />
+      <workItem from="1715859612122" duration="10033000" />
+      <workItem from="1715881171680" duration="3006000" />
+      <workItem from="1715884209981" duration="4735000" />
+      <workItem from="1715890643550" duration="19689000" />
+      <workItem from="1715950085767" duration="4400000" />
+      <workItem from="1716022340348" duration="27567000" />
+      <workItem from="1716201436918" duration="5696000" />
+      <workItem from="1716222050989" duration="1494000" />
+      <workItem from="1716266349221" duration="3537000" />
+      <workItem from="1716280666953" duration="1542000" />
+      <workItem from="1716453909636" duration="66000" />
+      <workItem from="1716544146799" duration="3986000" />
+      <workItem from="1716806656918" duration="3187000" />
+      <workItem from="1716914821985" duration="19000" />
+      <workItem from="1717054773873" duration="417000" />
+      <workItem from="1717607222891" duration="3237000" />
+    </task>
+    <task id="LOCAL-00001" summary="update">
+      <option name="closed" value="true" />
+      <created>1717622543916</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1717622543917</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="update" />
+    <option name="LAST_COMMIT_MESSAGE" value="update" />
+  </component>
+  <component name="VgoProject">
+    <integration-enabled>false</integration-enabled>
+    <settings-migrated>true</settings-migrated>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/test/java/Semicolon/Africa/TodoApp/services/TaskServiceImpTest.java</url>
+          <line>51</line>
+          <properties class="Semicolon.Africa.TodoApp.services.TaskServiceImpTest" method="testToRegisterOneUser_userIsNotLogin_UserCannotAddTask">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/test/java/Semicolon/Africa/TodoApp/services/TaskServiceImpTest.java</url>
+          <line>184</line>
+          <properties class="Semicolon.Africa.TodoApp.services.TaskServiceImpTest" method="testToRegisterTwoUser_userOneIsLogin_userCanAddTask_UserCanShareTask">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="18" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/Semicolon/Africa/TodoApp/services/UserServiceImpTest.java</url>
+          <line>65</line>
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/Semicolon/Africa/TodoApp/services/TaskServiceImpTest.java</url>
+          <line>19</line>
+          <option name="timeStamp" value="20" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
