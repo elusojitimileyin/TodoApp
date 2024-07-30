@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b6ba72b2-a24b-4da5-a1f0-f3e7ceced554" name="Changes" comment="update" />
+    <list default="true" id="b6ba72b2-a24b-4da5-a1f0-f3e7ceced554" name="Changes" comment="update">
+      <change beforePath="$PROJECT_DIR$/.idea/httpRequests/2024-05-06T081716.400.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/httpRequests/http-requests-log.http" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/httpRequests/http-requests-log.http" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -43,6 +47,10 @@
   <component name="GoLibraries">
     <option name="indexEntireGoPath" value="true" />
   </component>
+  <component name="KubernetesApiPersistence">{}</component>
+  <component name="KubernetesApiProvider">{
+  &quot;isMigrated&quot;: true
+}</component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
@@ -60,6 +68,7 @@
   </component>
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
+    &quot;HTTP Request.generated-requests | #6.executor&quot;: &quot;Run&quot;,
     &quot;JUnit.TaskServiceImpTest.testToRegisterOneUser_userCanLogin_UserCanAddTask_userCanUpdateTask.executor&quot;: &quot;Run&quot;,
     &quot;JUnit.UserServiceImpTest.testThatUserCanRegisterOnce.executor&quot;: &quot;Run&quot;,
     &quot;RequestMappingsPanelOrder0&quot;: &quot;0&quot;,
@@ -105,11 +114,11 @@
       <recent name="Semicolon.Africa.TodoApp.Data.Repository" />
     </key>
   </component>
-  <component name="RunManager" selected="Spring Boot.Main">
-    <configuration name="generated-requests | #315" type="HttpClient.HttpRequestRunConfigurationType" factoryName="HTTP Request" temporary="true" nameIsGenerated="true" path="$APPLICATION_CONFIG_DIR$/scratches/generated-requests.http" index="315" requestIdentifier="#315" runType="Run single request">
+  <component name="RunManager" selected="HTTP Request.generated-requests | #6">
+    <configuration name="generated-requests | #316" type="HttpClient.HttpRequestRunConfigurationType" factoryName="HTTP Request" temporary="true" nameIsGenerated="true" path="$APPLICATION_CONFIG_DIR$/scratches/generated-requests.http" index="316" requestIdentifier="#316" runType="Run single request">
       <method v="2" />
     </configuration>
-    <configuration name="generated-requests | #316" type="HttpClient.HttpRequestRunConfigurationType" factoryName="HTTP Request" temporary="true" nameIsGenerated="true" path="$APPLICATION_CONFIG_DIR$/scratches/generated-requests.http" index="316" requestIdentifier="#316" runType="Run single request">
+    <configuration name="generated-requests | #6" type="HttpClient.HttpRequestRunConfigurationType" factoryName="HTTP Request" temporary="true" nameIsGenerated="true" path="$APPLICATION_CONFIG_DIR$/scratches/generated-requests.http" index="6" requestIdentifier="#6" runType="Run single request">
       <method v="2" />
     </configuration>
     <configuration name="TaskServiceImpTest.testToRegisterOneUser_userCanLogin_UserCanAddTask_userCanUpdateTask" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
@@ -159,19 +168,19 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="HTTP Request.generated-requests | #6" />
+        <item itemvalue="JUnit.UserServiceImpTest.testThatUserCanRegisterOnce" />
         <item itemvalue="Spring Boot.Main" />
         <item itemvalue="JUnit.TaskServiceImpTest.testToRegisterOneUser_userCanLogin_UserCanAddTask_userCanUpdateTask" />
-        <item itemvalue="JUnit.UserServiceImpTest.testThatUserCanRegisterOnce" />
         <item itemvalue="HTTP Request.generated-requests | #316" />
-        <item itemvalue="HTTP Request.generated-requests | #315" />
       </list>
     </recent_temporary>
   </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-jdk-9f38398b9061-39b83d9b5494-intellij.indexing.shared.core-IU-241.17011.79" />
-        <option value="bundled-js-predefined-1d06a55b98c1-0b3e54e931b4-JavaScript-IU-241.17011.79" />
+        <option value="bundled-jdk-9f38398b9061-39b83d9b5494-intellij.indexing.shared.core-IU-241.17890.1" />
+        <option value="bundled-js-predefined-1d06a55b98c1-0b3e54e931b4-JavaScript-IU-241.17890.1" />
       </set>
     </attachedChunks>
   </component>
@@ -236,6 +245,9 @@
       <workItem from="1716914821985" duration="19000" />
       <workItem from="1717054773873" duration="417000" />
       <workItem from="1717607222891" duration="3237000" />
+      <workItem from="1717677033122" duration="1610000" />
+      <workItem from="1722075007492" duration="8211000" />
+      <workItem from="1722271003858" duration="563000" />
     </task>
     <task id="LOCAL-00001" summary="update">
       <option name="closed" value="true" />
